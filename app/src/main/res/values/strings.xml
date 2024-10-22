@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">oto_satıs</string>
+    <array name="marka">
+        <item>Marka Seçiniz</item>
+        <item>Opel</item>
+        <item>Renault</item>
+        <item>Ford</item>
+    </array>
+</resources>
